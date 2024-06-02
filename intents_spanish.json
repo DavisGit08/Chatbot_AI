@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": ["Hola", "Buenos días", "Buenas tardes"],
+            "responses": ["¡Hola colega! ¿En qué puedo ayudarte? no me pidas dinero, que estoy en paro", "¡Ey! Qué tal, ¿Qué necesitas? mientras no me pidas dinero o vino, todo bien", "Hola, hola, caracola. Dime qué necesitas, venga :)"]
+        },
+        {
+            "tag": "saludo_2",
+            "patterns": ["qué tal", "como estas", "como te va"],
+            "responses": ["Muy bien, estoy en paro y me levanto cuando me da la gana ¿En qué puedo ayudarte?", "Ahí va la cosa, no me quejo. Me hice un esguince y me duele el pie, pero hay cosas peores, ¿no?", "Ni que te importase. Es broma :)"]
+        }
+    ]
+}
